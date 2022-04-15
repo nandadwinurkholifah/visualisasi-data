@@ -1,2 +1,2 @@
 # visualisasi-data
-komstat tugas 1
+komstat tugas 2
